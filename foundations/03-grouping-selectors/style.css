@@ -8,3 +8,7 @@
     color: #FFFFFF;
     font-weight: bold;
 }
+
+.button.right {
+    background-color: #FFFF00;
+}
