@@ -1,3 +1,8 @@
 .odd {
-    font-family: Arial, serif;
+    font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+    background-color: pink;
+}
+
+.odd.third {
+    font-size: 24px;
 }
