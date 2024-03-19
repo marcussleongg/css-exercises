@@ -11,10 +11,12 @@ body {
 
 .title {
   background: #e3f4ff;
+  padding: 8px;
 }
 
 .content {
   background: #e3f4ff;
+  padding: 8px;
 }
 
 .button-container {
@@ -24,4 +26,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
+  padding: 8px;
 }
