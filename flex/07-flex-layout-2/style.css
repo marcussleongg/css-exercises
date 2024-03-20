@@ -37,12 +37,12 @@ body {
   border-radius: 4px;
   width: 250px;
   height: 300px;
+  padding: 16px;
 }
 
 .content {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .main {
